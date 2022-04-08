@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     WebView webView;
     SwipeRefreshLayout mySwipeRefreshLayout;
-    private final String siteUrl = "https://alexsop.com";
+    private final String siteUrl = "https://alexsop.com/android";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
